@@ -8,14 +8,14 @@ Escriba un solo script (el archivo `script.sh`) que genere los siguientes archiv
 
 **`velocidad-por-mes.csv`**:
 
-* Nombre de la estación.
-* Mes.
-* Velocidad. Esto es, la velocidad promedio por mes para la respectiva estación.
+    * Nombre de la estación.
+    * Mes.
+    * Velocidad. Esto es, la velocidad promedio por mes para la respectiva estación.
 
 **`velocidad-por-ano.csv`**:
 
 * Nombre de la estación.
-* Mes.
+* Año.
 * Velocidad. Esto es, la velocidad promedio por año para la respectiva estación.
 
 **`velocidad-por-hora.csv`**:
@@ -23,4 +23,3 @@ Escriba un solo script (el archivo `script.sh`) que genere los siguientes archiv
 * Nombre de la estación.
 * Mes.
 * Velocidad. Esto es, la velocidad promedio por hora para la respectiva estación.
-
